@@ -36,18 +36,23 @@ th, td {
 }
 .pray {
     font-size: xx-large;
+    background-color: aqua;
 }
 .king {
     font-size: xx-large;
+    background-color: antiquewhite;
 }
 .name {
     font-size: xx-large;
+    background-color: whitesmoke;
 }
 .couch {
     font-size: xx-large;
+    background-color: rgb(247, 221, 221);
 }
 .fork {
     font-size: xx-large;
+    background-color: lightgoldenrodyellow;
 }
 #sauce {
     color:yellow;
