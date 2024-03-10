@@ -1,0 +1,73 @@
+table {
+    width: 800px;
+}
+th {
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid #000;
+}
+th, td {
+    padding: 20px;
+}
+#photo {
+    color: blue;
+}
+#home {
+    color: firebrick;
+}
+#about {
+    color: darkslategray;
+}
+#ground {
+    color: indigo;
+}
+#binge {
+    color: crimson;
+}
+#start {
+    color: crimson;
+}
+#item {
+    color: mediumblue;
+}
+#fly {
+    color: mediumblue;
+}
+.pray {
+    font-size: xx-large;
+}
+.king {
+    font-size: xx-large;
+}
+.name {
+    font-size: xx-large;
+}
+.couch {
+    font-size: xx-large;
+}
+.fork {
+    font-size: xx-large;
+}
+#sauce {
+    color:yellow;
+}
+#hello {
+    color: yellow;
+}
+#color {
+    color: yellowgreen;
+}
+#say {
+    color: chocolate;
+}
+#hi {
+    color: blueviolet;
+}
+#wow {
+    color: darkmagenta;
+    width: 60%;
+}
+#find {
+    color: plum;
+}
